@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380554891284",
+    "project_id": "shivila-shopping",
+    "storage_bucket": "shivila-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380554891284:android:897991b637fa29d8b85701",
+        "android_client_info": {
+          "package_name": "com.Shivila.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380554891284-0o8hbhvoanjvo7jsg1tvp2s6ad4plfn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt5Lk6TeP9kHmIAciXtwyOJM-_2SBX7iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380554891284-0o8hbhvoanjvo7jsg1tvp2s6ad4plfn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
